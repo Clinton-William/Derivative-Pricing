@@ -40,6 +40,7 @@ where:
 - \(\sigma\) is the volatility (standard deviation of returns), and
 - \(dW_t\) is a Wiener process increment.
 
+
 ## Variance Reduction Techniques and Random Number Generation
 
 Variance reduction techniques play a crucial role in minimizing clustering and improving the efficiency of random number generation in Monte Carlo simulations. By reducing the variance of the estimator, these techniques help generate more accurate and reliable estimates of derivative prices.
